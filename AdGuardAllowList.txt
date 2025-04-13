@@ -1152,10 +1152,6 @@
 @@|chunk-gce-us-east1-production.cfcdn.v.rokfin.com^$important
 @@|ci.phncdn.com^$important
 @@|ci.rdtcdn.com^$important
-@@|ci3.googleusercontent.com^$important
-@@|ci4.googleusercontent.com^$important
-@@|ci5.googleusercontent.com^$important
-@@|ci6.googleusercontent.com^$important
 @@|cinnamon-spices.linuxmint.com^$important
 @@|ciscobinary.openh264.org^$important
 @@|citrine.chanteney.cloudfront.hls.ttvnw.net^$important
@@ -1183,7 +1179,6 @@
 @@|clients.plex.tv^$important
 @@|clients1.google.com^$important
 @@|clients2.google.com^$important
-@@|clients2.googleusercontent.com^$important
 @@|clients3.google.com^$important
 @@|clients4.google.com^$important
 @@|clients5.google.com^$important
@@ -1593,8 +1588,6 @@
 @@|dns.quad9.net^$important
 @@|dns.sb^$important
 @@|do-not-tracker.org^$important
-@@|doc-*-docs.googleusercontent.com^$important
-@@|doc-*-drive-data-export.googleusercontent.com^$important
 @@|doc.opensuse.org^$important
 @@|doc.qbittorrent.org^$important
 @@|docker.io^$important
@@ -1719,7 +1712,6 @@
 @@|dpm.demdex.net^$important
 @@|dpu.samsungelectronics.com^$important
 @@|dragonagekeep.com^$important
-@@|drive-thirdparty.googleusercontent.com^$important
 @@|drive.fife.usercontent.google.com^$important
 @@|drive.filen.io^$important
 @@|drive.google.com^$important
@@ -1986,7 +1978,6 @@
 @@|feedback-pa.clients6.google.com^$important
 @@|feedback.aliexpress.com^$important
 @@|feedback.eset.com^$important
-@@|feedback.googleusercontent.com^$important
 @@|feedback.nexusmods.com^$important
 @@|feedback.xbox.com^$important
 @@|feedback.xda-developers.com^$important
@@ -2354,9 +2345,7 @@
 @@|google2.cdn.steampipe.steamcontent.com^$important
 @@|googleapis.com^$important
 @@|googleapis.l.google.com^$important
-@@|googlehosted.l.googleusercontent.com^$important
 @@|googleonebackup-pa.googleapis.com^$important
-@@|googleusercontent.com^$important
 @@|googlevideo.com^$important
 @@|gos-api.gos-gsp.io^$important
 @@|gosca.ea.com^$important
@@ -2778,7 +2767,6 @@
 @@|kpu.samsungelectronics.com^$important
 @@|kr-mirror.chaotic.cx^$important
 @@|kr.api.blizzard.com^$important
-@@|kstatic.googleusercontent.com^$important
 @@|kubernetes.io^$important
 @@|kv601.prod.do.dsp.mp.microsoft.com^$important
 @@|l-ring.msedge.net^$important
@@ -2811,10 +2799,8 @@
 @@|lfghub-anonymous.xboxlive.com^$important
 @@|lgincdnmsftuswe2.azureedge.net^$important
 @@|lgincdnvzeuno.azureedge.net^$important
-@@|lh*.googleusercontent.com^$important
 @@|lh3.ggpht.com^$important
 @@|lh3.google.com^$important
-@@|lh3.googleusercontent.com^$important
 @@|lh4.ggpht.com^$important
 @@|lh5.ggpht.com^$important
 @@|lh6.ggpht.com^$important
@@ -2958,7 +2944,6 @@
 @@|madvr.com^$important
 @@|madvrlabs.wpengine.com^$important
 @@|mail-api.proton.me^$important
-@@|mail-attachment.googleusercontent.com^$important
 @@|mail.google.com^$important
 @@|mail.hulu.com^$important
 @@|mail.kde.org^$important
@@ -3681,7 +3666,6 @@
 @@|phoenixnap.dl.sourceforge.net^$important
 @@|phonedeviceverification-pa.googleapis.com^$important
 @@|photo.plus.google.com^$important
-@@|photos-ugc.l.googleusercontent.com^$important
 @@|photos.google.com^$important
 @@|photos.internxt.com^$important
 @@|photos.live.com^$important
@@ -3714,7 +3698,6 @@
 @@|planetsuzy.org^$important
 @@|platform.cloud.coveo.com^$important
 @@|play-fe.googleapis.com^$important
-@@|play-lh.googleusercontent.com^$important
 @@|play.google.com^$important
 @@|play.googleapis.com^$important
 @@|play.halo.part.xbox.com^$important
@@ -4355,7 +4338,7 @@
 @@|ssbv2dlsv20.sonicseedbox.com^$important
 @@|ssd.eff.org^$important
 @@|ssl-lvlt.cdn.ea.com^$important
-/^((connectivitycheck|encrypted-(tbn[0-9]|vtbn0)|fonts|maps|ssl|t*|www)\.)?gstatic.com$/
+/^((connectivitycheck|encrypted\-(tbn[0-9]|vtbn0)|fonts|maps|ssl|t*|www)\.)?gstatic\.com$/
 @@|ssl.p.jwpcdn.com^$important
 @@|ssl.reddit.com^$important
 @@|sso-static.razer.com^$important
@@ -5784,7 +5767,7 @@
 @@|yt1.ggpht.com^$important
 @@|yt2.ggpht.com^$important
 @@|yt3.ggpht.com^$important
-@@|yt3.googleusercontent.com^$important
+/^((yt3|ci3[3-6]|clients2|doc\-*\-(docs|drive-data-export)|drive-thirdparty|feedback|(googlehosted|photos-ugc)\.l|kstatic|lh[0-9]|mail\-attachment|play-lh)\.)?googleusercontent\.com$/
 @@|yt4.ggpht.com^$important
 @@|yt5.ggpht.com^$important
 @@|yt6.ggpht.com^$important
