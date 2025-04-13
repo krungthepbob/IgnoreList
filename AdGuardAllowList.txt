@@ -5894,5 +5894,7 @@
 @@||v20.events.data.microsoft.com^$important
 @@||xp.apple.com^$important
 @@||z-m-graph.facebook.com^$important
+@@||data.microsoft.com^$important
+
 
 
