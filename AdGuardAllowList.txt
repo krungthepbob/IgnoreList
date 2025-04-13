@@ -834,7 +834,6 @@
 @@|brazzers.com^$important
 @@|breaking-news.support.blizzard.com^$important
 @@|bromite.org^$important
-@@|browser.events.data.microsoft.com^$important
 @@|browser.pipe.aria.microsoft.com^$important
 @@|browser.samsungcloudcdn.com^$important
 @@|browserbench.org^$important
@@ -1400,7 +1399,7 @@
 @@|cweb.myshopping.com.au^$important
 @@|cwsmgmt.corsair.com^$important
 @@|cy.wikipedia.com^$important
-@@|cy2.settings.data.microsoft.com.akadns.net^$important
+@@|data.microsoft.com.akadns.net^$important
 @@|cyberdrop.me^$important
 @@|cyberlink.com^$important
 @@|cyberthreatcoalition.org^$important
@@ -1888,8 +1887,6 @@
 @@|eu.pipe.aria.microsoft.com^$important
 @@|eu.playstation.com^$important
 @@|eu.static.mega.co.nz^$important
-@@|eu.vortex.data.microsoft.com.akadns.net^$important
-@@|eu.vortex.data.microsoft.com^$important
 @@|eu.wikipedia.com^$important
 @@|eulatracking-public-service-prod.ak.epicgames.com^$important
 @@|eulatracking-public-service-prod06.ol.epicgames.com^$important
@@ -4170,7 +4167,6 @@
 @@|sefinek.net^$important
 @@|segments-s.msedge.net^$important
 @@|self-test.sabnzbd.org^$important
-@@|self.events.data.microsoft.com^$important
 @@|semantic-ui.com^$important
 @@|send.cm^$important
 @@|sentry.internxt.com^$important
@@ -4179,7 +4175,6 @@
 @@|sentry.odysee.tv^$important
 @@|sentry.unknownworlds.com^$important
 @@|sentry2.intdev.exetel.com.au^$important
-@@|server.events.data.microsoft.com^$important
 @@|service-aggregation-layer-subs.juno.ea.com^$important
 @@|service-aggregation-layer.juno.ea.com^$important
 @@|service.weather.microsoft.com^$important
@@ -4191,11 +4186,7 @@
 @@|sessiondirectory.xboxlive.com^$important
 @@|sessions-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|settings-ssl.xboxlive.com^$important
-@@|settings-win.data.microsoft.com*^$important
-@@|settings-win.data.microsoft.com^$important
 @@|settings.cdn.ubisoft.com^$important
-@@|settings.data.microsoft.com*^$important
-@@|settings.data.microsoft.com^$important
 @@|settings.live.net^$important
 @@|settings.svc.halowaypoint.com^$important
 @@|sfdataservice.microsoft.com^$important
@@ -4693,7 +4684,6 @@
 @@|tasks-pa.googleapis.com^$important
 @@|tccmsms.azureedge.net^$important
 @@|teams-ring.msedge.net^$important
-@@|teams.events.data.microsoft.com^$important
 @@|teams.live.com^$important
 @@|teams.microsoft.com^$important
 @@|teamviewer.com^$important
@@ -5112,7 +5102,6 @@
 @@|v.tampermonkey.net^$important
 @@|v0.wordpress.com^$important
 @@|v2.cutcaptcha.net^$important
-@@|v20.events.data.microsoft.com^$important
 @@|v4.ai.ingka.ikea.net^$important
 @@|v4.plex.tv^$important
 @@|v6-tracker.0g.cx^$important
@@ -5182,7 +5171,6 @@
 @@|vod.provider.plex.tv^$important
 @@|voidtools.com^$important
 @@|voilatile-pa.googleapis.com^$important
-@@|vortex.data.microsoft.com^$important
 @@|vporn.com^$important
 @@|vr.google.com^$important
 @@|vrmedia-lm.xhcdn.com^$important
@@ -5236,7 +5224,6 @@
 @@|web-toolbar.playstation.com^$important
 @@|web.np.playstation.com^$important
 @@|web.poecdn.com^$important
-@@|web.vortex.data.microsoft.com^$important
 @@|web.vortex.data.trafficmanager.net^$important
 @@|webapp-cp-back.azurewebsites.net^$important
 @@|webapps.stgeorge.com.au^$important
@@ -5878,7 +5865,6 @@
 @@||publichd.eu^$important
 @@||s.youtube.com^$important
 @@||saa.cbsi.com^$important
-@@||settings-win.data.microsoft.com^$important
 @@||shopee.co.th^$important
 @@||smoot.apple.com^$important^$important
 @@||sonar21.com^$important
@@ -5890,8 +5876,6 @@
 @@||update.intl.miui.com^$important
 @@||us04logfiles.zoom.us^$important
 @@||us04zpns.zoom.us^$important
-@@||v10.events.data.microsoft.com^$important
-@@||v20.events.data.microsoft.com^$important
 @@||xp.apple.com^$important
 @@||z-m-graph.facebook.com^$important
 @@||data.microsoft.com^$important
