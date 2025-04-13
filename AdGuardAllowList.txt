@@ -1291,7 +1291,6 @@
 @@|connectivity-check.ubuntu.com^$important
 @@|connectivity.zorin-os.com^$important
 @@|connectivitycheck.android.com^$important
-@@|connectivitycheck.gstatic.com^$important
 @@|consent.dropbox.com^$important
 @@|consent.trustarc.com^$important
 @@|console.python.org^$important
@@ -1834,11 +1833,6 @@
 @@|en.wikipedia.com^$important
 @@|en.wikipedia.org^$important
 @@|encore.scdn.co^$important
-@@|encrypted-tbn0.gstatic.com^$important
-@@|encrypted-tbn1.gstatic.com^$important
-@@|encrypted-tbn2.gstatic.com^$important
-@@|encrypted-tbn3.gstatic.com^$important
-@@|encrypted-vtbn0.gstatic.com^$important
 @@|endeavouros.com^$important
 @@|energyaustralia.com.au^$important
 @@|enforcement.spro.xbox.com^$important
@@ -2058,7 +2052,6 @@
 @@|fontawesome-cdn.fonticons.netdna-cdn.com^$important
 @@|fonts.ea.com^$important
 @@|fonts.googleapis.com^$important
-@@|fonts.gstatic.com^$important
 @@|fonts.intercomcdn.com^$important
 @@|fonts.podia.com^$important
 @@|fonts.service.nsw.gov.au^$important
@@ -2389,7 +2382,6 @@
 @@|gs.apple.com^$important
 @@|gsl-syd.mm.fcix.net^$important
 @@|gsprodblapp-*.ea.com^$important
-@@|gstatic.com^$important
 @@|gu.glarysoft.com^$important
 @@|guardianproject.gitlab.io^$important
 @@|guardianproject.info^$important
@@ -2997,7 +2989,6 @@
 @@|maps.google.com.au^$important
 @@|maps.google.com^$important
 @@|maps.googleapis.com^$important
-@@|maps.gstatic.com^$important
 @@|maps.windows.com^$important
 @@|maren.cdntrex.com^$important
 @@|mariadb.org^$important
@@ -4364,7 +4355,7 @@
 @@|ssbv2dlsv20.sonicseedbox.com^$important
 @@|ssd.eff.org^$important
 @@|ssl-lvlt.cdn.ea.com^$important
-@@|ssl.gstatic.com^$important
+/^((connectivitycheck|encrypted-(tbn[0-9]|vtbn0)|fonts|maps|ssl|t*|www)\.)?gstatic.com$/
 @@|ssl.p.jwpcdn.com^$important
 @@|ssl.reddit.com^$important
 @@|sso-static.razer.com^$important
@@ -4641,7 +4632,6 @@
 @@|sync.standardnotes.org^$important
 @@|system76.cdn.prismic.io^$important
 @@|system76.com^$important
-@@|t*.gstatic.com^$important
 @@|t-ring-fallbacks1.msedge.net^$important
 @@|t-ring-fallbacks2.msedge.net^$important
 @@|t-ring-fdv2.msedge.net^$important
@@ -5458,7 +5448,6 @@
 @@|www.google.com^$important
 @@|www.gpsoft.com.au^$important
 @@|www.grc.com^$important
-@@|www.gstatic.com^$important
 @@|www.gumtree.com.au^$important
 @@|www.guru3d.com^$important
 @@|www.guru99.com^$important
