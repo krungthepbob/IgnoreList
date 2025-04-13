@@ -229,7 +229,6 @@
 @@|account.samsung.com^$important
 @@|account.service.nsw.gov.au^$important
 @@|account.services.gearboxsoftware.com^$important
-@@|account.wire.com^$important
 @@|account.xbox.com^$important
 @@|accounts-cctld.l.google.com^$important
 @@|accounts-static.cdn.mozilla.net^$important
@@ -524,7 +523,6 @@
 @@|app.twitch.tv^$important
 @@|app.vsaex.visualstudio.com^$important
 @@|app.vssps.visualstudio.com^$important
-@@|app.wire.com^$important
 @@|appboot.netflix.com^$important
 @@|appengine.google.com^$important
 @@|appldnld.apple.com^$important
@@ -3811,15 +3809,13 @@
 @@|proactive-chat-server-ap.prod.aws.lcloud.com^$important
 @@|proactivebackend-pa.googleapis.com^$important
 @@|prod-api-v2.production.rokfin.com^$important
-@@|prod-assets.wire.com^$important
+/^((account|api|app|prod\-(assets|nginz\-(https|ssl)))\.)?wire\.com$/
 @@|prod-avatars.akamaized.net^$important
 @@|prod-cleo.malwarebytes.com^$important
 @@|prod-commercial-systems.kubernetes-ingress.canonical.com^$important
 @@|prod-core.ros.rockstargames.com^$important
 @@|prod-locator-cloud.rockstargames.com^$important
 @@|prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
-@@|prod-nginz-https.wire.com^$important
-@@|prod-nginz-ssl.wire.com^$important
 @@|prod-notification-websocket.bethesda.net^$important
 @@|prod-pa.api.wbinsights.com^$important
 @@|prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com^$important
@@ -5273,7 +5269,6 @@
 @@|winscp.net^$important
 @@|winstall.app^$important
 @@|winter15.gosredirector.ea.com^$important
-@@|wire.com^$important
 @@|wixmp-ed30a86b8c4ca887773594c2.wixmp.com^$important
 @@|wn*.rumble.com^$important
 @@|woolworths.com.au^$important
