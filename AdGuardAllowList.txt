@@ -50,7 +50,6 @@
 @@|*.ds*.akamaiedge.net^$important
 @@|*.ext-twitch.tv^$important
 @@|*.fandom.com^$important
-@@|*.fastly.steamstatic.com^$important
 @@|*.files.1drv.com^$important
 @@|*.flkitover.com^$important
 @@|*.g.akamaiedge.net^$important
@@ -673,15 +672,11 @@
 @@|avatar.razerzone.com^$important
 @@|avatarfiles.alphacoders.com^$important
 @@|avatars*.githubusercontent.com^$important
-@@|avatars.akamai.steamstatic.com^$important
 @@|avatars.alphacoders.com^$important
-@@|avatars.cloudflare.steamstatic.com^$important
 @@|avatars.discourse-cdn.com^$important
-@@|avatars.fastly.steamstatic.com^$important
 @@|avatars.githubusercontent.com^$important
 @@|avatars.nexusmods.com^$important
 @@|avatars.slant.co^$important
-@@|avatars.steamstatic.com^$important
 @@|avatars0.githubusercontent.com^$important
 @@|avatars1.githubusercontent.com^$important
 @@|avatars2.githubusercontent.com^$important
@@ -958,7 +953,6 @@
 @@|cdn.adrise.tv^$important
 @@|cdn.adtidy.org^$important
 @@|cdn.ageofempires.com^$important
-@@|cdn.akamai.steamstatic.com^$important
 @@|cdn.appdynamics.com^$important
 @@|cdn.arstechnica.net^$important
 @@|cdn.auth0.com^$important
@@ -969,7 +963,6 @@
 @@|cdn.canstarblue.com.au^$important
 @@|cdn.chocolatey.org^$important
 @@|cdn.cloudflare.net^$important
-@@|cdn.cloudflare.steamstatic.com^$important
 @@|cdn.contentful.com^$important
 @@|cdn.cookielaw.org^$important
 @@|cdn.cquotient.com^$important
@@ -983,7 +976,6 @@
 @@|cdn.dragonagekeep.com^$important
 @@|cdn.dynamicyield.com^$important
 @@|cdn.eu.auth0.com^$important
-@@|cdn.fastly.steamstatic.com^$important
 @@|cdn.filen.io^$important
 @@|cdn.flowplayer.com^$important
 @@|cdn.forms.office.net^$important
@@ -1040,7 +1032,6 @@
 @@|cdn.statically.io^$important
 @@|cdn.staticaly.com^$important
 @@|cdn.statuspage.io^$important
-@@|cdn.steamstatic.com^$important
 @@|cdn.storeedgefd.dsx.mp.microsoft.com^$important
 @@|cdn.streamelements.com^$important
 @@|cdn.streamlabs.com^$important
@@ -1155,9 +1146,6 @@
 @@|cinnamon-spices.linuxmint.com^$important
 @@|ciscobinary.openh264.org^$important
 @@|citrine.chanteney.cloudfront.hls.ttvnw.net^$important
-@@|clan.akamai.steamstatic.com^$important
-@@|clan.fastly.steamstatic.com^$important
-@@|clan.steamstatic.com^$important
 @@|clearlinux.org^$important
 @@|clearurls.xyz^$important
 @@|cli.speedtest.net^$important
@@ -1167,13 +1155,10 @@
 @@|client-metrics-gateway-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|client-s.gateway.messenger.live.com^$important
 @@|client-strings.xboxlive.com^$important
-@@|client-update.akamai.steamstatic.com^$important
-@@|client-update.fastly.steamstatic.com^$important
 @@|client.dropbox.com^$important
 @@|client.stackcommerce.io^$important
 @@|client.teamviewer.com^$important
 @@|client.wns.windows.com^$important
-@@|clientconfig.akamai.steamstatic.com^$important
 @@|clientconfig.passport.net^$important
 @@|clients.l.google.com^$important
 @@|clients.plex.tv^$important
@@ -1236,13 +1221,10 @@
 @@|commondatastorage.googleapis.com^$important
 @@|commons.wikipedia.com^$important
 @@|communities.vmware.com^$important
-@@|community.akamai.steamstatic.com^$important
 @@|community.ato.gov.au^$important
 @@|community.brave.com^$important
 @@|community.chocolatey.org^$important
-@@|community.cloudflare.steamstatic.com^$important
 @@|community.eu.playstation.com^$important
-@@|community.fastly.steamstatic.com^$important
 @@|community.hulu.com^$important
 @@|community.intel.com^$important
 @@|community.jp.playstation.com^$important
@@ -1252,7 +1234,6 @@
 @@|community.plex.tv^$important
 @@|community.soundcloud.com^$important
 @@|community.steam-api.com^$important
-@@|community.steamstatic.com^$important
 @@|community.us.playstation.com^$important
 @@|community.xbox.com^$important
 @@|communityteam.software.eu.playstation.com^$important
@@ -4167,9 +4148,7 @@
 @@|share-play.cdn.ubisoft.com^$important
 @@|share.dmca.gripe^$important
 @@|shared-static-prod.epicgames.com^$important
-@@|shared.akamai.steamstatic.com^$important
-@@|shared.fastly.steamstatic.com^$important
-@@|shared.steamstatic.com^$important
+/^(shared\.?(akamai|fastly)?|(avatars|cdn|clan|clientconfig|client-update|community|store|video)\.?(akamai|cloudflare|fastly)?)\.steamstatic\.com$/
 @@|shasta-rrs.norton.com^$important
 @@|shavar.prod.mozaws.net^$important
 @@|shavar.services.mozilla.com^$important
@@ -4515,13 +4494,10 @@
 @@|store-static-modular.gog-statics.com^$important
 @@|store-static.gog-statics.com^$important
 @@|store.acer.com^$important
-@@|store.akamai.steamstatic.com^$important
 @@|store.aldi.com.au^$important
 @@|store.apple.com^$important
 @@|store.bethesda.net^$important
-@@|store.cloudflare.steamstatic.com^$important
 @@|store.epicgames.com^$important
-@@|store.fastly.steamstatic.com^$important
 @@|store.google.com^$important
 @@|store.kaspersky.com^$important
 @@|store.kde.org^$important
@@ -4532,7 +4508,6 @@
 @@|store.samsungcloudcdn.com^$important
 @@|store.sony.com^$important
 @@|store.steampowered.com^$important
-@@|store.steamstatic.com^$important
 @@|store.ubi.com^$important
 @@|store.xbox.com^$important
 @@|storecatalogrevocation.storequality.microsoft.com^$important
@@ -5108,10 +5083,8 @@
 @@|video-weaver.*.hls.ttvnw.net^$important
 @@|video-weaver.lax03.hls.ttvnw.net^$important
 @@|video-weaver.syd*.hls.ttvnw.net^$important
-@@|video.akamai.steamstatic.com^$important
 @@|video.api.playstation.com^$important
 @@|video.dl.playstation.net^$important
-@@|video.fastly.steamstatic.com^$important
 @@|video.google.com^$important
 @@|video.playstation.com^$important
 @@|video.xhcdn.com^$important
