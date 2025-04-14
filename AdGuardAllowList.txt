@@ -4558,7 +4558,6 @@
 @@|styles.redditmedia.com^$important
 @@|subca.ocsp-certum.com^$important
 @@|subscribe.adblockplus.org^$important
-@@|substrate.office.com^$important
 @@|sudf-resources.hpcloud.hp.com^$important
 @@|superhub.superloop.com^$important
 @@|superloop.com^$important
