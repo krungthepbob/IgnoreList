@@ -17,7 +17,7 @@
 @@|*.ahcdn.com^$important
 @@|*.aria.microsoft.com^$important
 @@|*.australiasoutheast.cloudapp.azure.com^$important
-@@||*.awsglobalaccelerator.com^$important
+@@|*.awsglobalaccelerator.com^$important
 @@|*.b.akamaiedge.net^$important
 @@|*.battle.net^$important
 @@|*.bootstrap.libp2p.io^$important
@@ -142,8 +142,8 @@
 @@|_https._tcp.motd.ubuntu.com^$important
 @@|_https._tcp.packages.zorinos.com^$important
 @@|ads-fa-darwin.hulustream.com^$important
-@@||agoda.com^$important
-@@||apple.com^$important
+@@|*.agoda.com^$important
+@@|*apple.com^$important
 /^(((b\-)|(z\-m\-))?graph(\-fallback)?|connect|web)\.facebook\.com$/
 @@|cbsaavideo.com^$important
 @@|cbsi.com^$important
