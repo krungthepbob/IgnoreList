@@ -63,7 +63,6 @@
 @@|*.mydns.jdownloader.org^$important
 @@|*.nimbus.bitdefender.net^$important
 @@|*.offcloud.com^$important
-@@|*.office.com^$important
 @@|*.officeapps.live.com^$important
 @@|*.onedrive.com^$important
 @@|*.onedrive.live.com^$important
@@ -2079,7 +2078,6 @@
 @@|forksystems.mm.fcix.net^$important
 @@|form.typeform.com^$important
 @@|forms.gle^$important
-@@|forms.office.com^$important
 @@|forthebadge.com^$important
 @@|forum.doom9.org^$important
 @@|forum.fr.playstation.com^$important
@@ -3581,7 +3579,6 @@
 @@|outlook-*.cdn.office.net^$important
 @@|outlook.com^$important
 @@|outlook.live.com^$important
-@@|outlook.office.com^$important
 @@|outlook.office365.com^$important
 @@|outlookmobile-office365-tas.msedge.net^$important
 @@|ov-df.microsoft.com^$important
@@ -3835,7 +3832,6 @@
 @@|production.cloudflare.docker.com^$important
 @@|production-appsync.degoo.com^$important
 @@|production-lb-superloop-cms-web-390250080.ap-southeast-2.elb.amazonaws.com^$important
-@@|products.office.com^$important
 @@|prod-video-cms-rt-microsoft-com.akamaized.net^$important
 @@|prod-www.malwarebytes.com^$important
 @@|profile.accounts.firefox.com^$important
@@ -5533,7 +5529,6 @@
 @@|www.nzb360.com^$important
 @@|www.nzbcloud.com^$important
 @@|www.ocbase.com^$important
-@@|www.office.com^$important
 @@|www.officeworks.com.au^$important
 @@|www.omgubuntu.co.uk^$important
 @@|www.omnicalculator.com^$important
