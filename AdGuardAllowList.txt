@@ -336,7 +336,7 @@
 @@|adguardteam.github.io^$important
 @@|adidas.com^$important
 @@|adl.windows.com^$important
-@@|admin.docker.com^$important
+/^(admin|api\.(dso|scout)|app|desktop|docs|email\.notify|forum(s)?|hub|login|production\.cloudflare|scout|www)\.docker.com$/
 @@|admin.fedoraproject.org^$important
 @@|admin.microsoft.com^$important
 @@|adssettings.google.com^$important
@@ -440,7 +440,6 @@
 @@|api.deezer.com^$important
 @@|api.doorman.fsapi.com^$important
 @@|api.dropbox.com^$important
-@@|api.dso.docker.com^$important
 @@|api.epicgames.dev^$important
 @@|api.eset.com^$important
 @@|api.evernote.com^$important
@@ -497,7 +496,6 @@
 @@|api.rollbar.com^$important
 @@|api.samsungcloud.com^$important
 @@|api.samsungconsent.com^$important
-@@|api.scout.docker.com^$important
 @@|api.segment.io^$important
 @@|api.snapcraft.io^$important
 @@|api.soundcloud.com^$important
@@ -560,7 +558,6 @@
 @@|apollo.dl.playstation.net^$important
 @@|app.alipay.com^$important
 @@|app.degoo.com^$important
-@@|app.docker.com^$important
 @@|app.hulu.com^$important
 @@|app.launchdarkly.com^$important
 @@|app.mediafire.com^$important
@@ -702,7 +699,6 @@
 @@|auth.api.np.ac.playstation.net^$important
 @@|auth.assist.gameservices.xboxlive.com^$important
 @@|auth.ato.gov.au^$important
-@@|auth.docker.io^$important
 @@|auth.freeones.com^$important
 @@|auth.gog.com^$important
 @@|auth.kmart.com.au^$important
@@ -1499,7 +1495,6 @@
 @@|de-mirror.chaotic.cx^$important
 @@|deploy.windscribe.com^$important
 @@|depositfiles.com^$important
-@@|desktop.docker.com^$important
 @@|desktop.github.com^$important
 @@|desktop.githubusercontent.com^$important
 @@|desktop-config.juno.ea.com^$important
@@ -1617,13 +1612,11 @@
 @@|dns-family.adguard.com^$important
 @@|doc.opensuse.org^$important
 @@|doc.qbittorrent.org^$important
-@@|docker.io^$important
 @@|doclone.nongnu.org^$important
 @@|docs.avaloniaui.net^$important
 @@|docs.chocolatey.org^$important
 @@|docs.clearurls.xyz^$important
 @@|docs.dbhub.io^$important
-@@|docs.docker.com^$important
 @@|docs.dopus.com^$important
 @@|docs.fedoraproject.org^$important
 @@|docs.flutter.dev^$important
@@ -1828,7 +1821,6 @@
 @@|elementary.io^$important
 @@|elixir-lang.org^$important
 @@|elm-lang.org^$important
-@@|email.notify.docker.com^$important
 @@|email2.gog.com^$important
 @@|email-assets.soundcloud.com^$important
 @@|emapi.prm.data.ea.com^$important
@@ -2090,7 +2082,6 @@
 @@|forum.zorin.com^$important
 @@|forumadsales.software.eu.playstation.com^$important
 @@|forums.appleinsider.com^$important
-@@|forums.docker.com^$important
 @@|forums.geforce.com^$important
 @@|forums.getpaint.net^$important
 @@|forums.linuxmint.com^$important
@@ -2489,7 +2480,6 @@
 @@|hu.twitch.tv^$important
 @@|hu.wikipedia.com^$important
 @@|hub.deviantart.net^$important
-@@|hub.docker.com^$important
 @@|hubble.mb-cosmos.com^$important
 @@|hubt.pornhub.com^$important
 @@|humblebundle.com^$important
@@ -2894,7 +2884,6 @@
 @@|log-24f7f3c7.nab.com.au^$important
 @@|login.aliexpress.com^$important
 @@|login.corsair.com^$important
-@@|login.docker.com^$important
 @@|login.gog.com^$important
 @@|login.hulu.com^$important
 @@|login.live.com^$important
@@ -3816,7 +3805,6 @@
 @@|productcard.gog-statics.com^$important
 @@|productimages.coles.com.au^$important
 @@|production.assets.clips.twitchcdn.net^$important
-@@|production.cloudflare.docker.com^$important
 @@|production-appsync.degoo.com^$important
 @@|production-lb-superloop-cms-web-390250080.ap-southeast-2.elb.amazonaws.com^$important
 @@|prod-video-cms-rt-microsoft-com.akamaized.net^$important
@@ -3950,7 +3938,7 @@
 @@|referrals.brave.com^$important
 @@|registry.fedoraproject.org^$important
 @@|registry.npmjs.org^$important
-@@|registry-1.docker.io^$important
+*.docker.io
 @@|relay-*.net.anydesk.com^$important
 @@|relay.firefox.com^$important
 @@|release.twitch.tv^$important
@@ -4087,7 +4075,6 @@
 @@|scoop.sh^$important
 @@|scoopsearch.search.windows.net^$important
 @@|scorptec.resultspage.com^$important
-@@|scout.docker.com^$important
 @@|screenshotscontent-*.xboxlive.com^$important
 @@|screentogif-releases.azurewebsites.net^$important
 @@|script.google.com^$important
@@ -5332,7 +5319,6 @@
 @@|www.digitaltrends.com^$important
 @@|www.dm.origin.com^$important
 @@|www.dns.sb^$important
-@@|www.docker.com^$important
 @@|www.dockerstatus.com^$important
 @@|www.dodo.com^$important
 @@|www.dolby.com^$important
@@ -5760,3 +5746,6 @@
 @@|zpu.samsungelectronics.com^$important
 @@|zrn.co^$important
 @@|ztd.dds.microsoft.com^$important
+@@||protonvpn.com^$important
+@@||proton.me^$important
+@@||privado.io^$important
