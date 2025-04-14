@@ -920,7 +920,6 @@
 @@|c1-word-edit-*.cdn.office.net^$important
 @@|c1-word-view-*.cdn.office.net^$important
 @@|c2.eb-cdn.com.au^$important
-@@|c3.shared.global.fastly.net^$important
 @@|c6.paypal.com^$important
 @@|c9.trafficdeposit.com^$important
 @@|cacerts.digicert.com^$important
@@ -1760,8 +1759,6 @@
 @@|dsadata.intel.com^$important
 @@|dstik9906m659.cloudfront.net^$important
 @@|dual-a-*.a-msedge.net^$important
-@@|dualstack.reddit.map.fastly.net^$important
-@@|dualstack.zd.map.fastly.net^$important
 @@|duckduckgo.com^$important
 @@|dvcasha2.ocsp-certum.com^$important
 @@|dyncdn.me^$important
@@ -1788,8 +1785,6 @@
 @@|easylist.to^$important
 @@|easylist-downloads.adblockplus.org^$important
 @@|ebay.com.au^$important
-@@|ebayimg.map.fastly.net^$important
-@@|ebaystatic.ebay.map.fastly.net^$important
 @@|ebgames.com.au^$important
 @@|ebill.sydneywater.com.au^$important
 @@|ec.razer.com^$important
@@ -2018,7 +2013,6 @@
 @@|ffmpeg.org^$important
 @@|ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com^$important
 @@|ffprofile.com^$important
-@@|fg.microsoft.map.fastly.net^$important
 @@|fhp.nab.com.au^$important
 @@|fi.google.com^$important
 @@|fi.m.wikipedia.com^$important
@@ -2415,7 +2409,6 @@
 @@|gx-target-experiments-frontend-api.gx.nvidia.com^$important
 @@|gx-target-survey-frontend-api.gx.nvidia.com^$important
 @@|gyan.dev^$important
-@@|h2.twitch.map.fastly.net^$important
 @@|h20572.www2.hp.com^$important
 @@|halifax.maelstrom.gameservices.xboxlive.com^$important
 @@|halo.part.xbox.com^$important
@@ -2516,7 +2509,6 @@
 @@|i.ytimg.com^$important
 @@|i1.social.s-msft.com^$important
 @@|i1.ytimg.com^$important
-@@|i2.shared.global.fastly.net^$important
 @@|iad.mirror.rackspace.com^$important
 @@|ib.nab.com.au^$important
 @@|ibanking.stgeorge.com.au^$important
@@ -2702,7 +2694,6 @@
 @@|ipfs-swarm-ws.hellomouse.net^$important
 @@|ipinfo.io^$important
 @@|iplists.firehol.org^$important
-@@|ipv4.imgur.map.fastly.net^$important
 @@|ipv4.tracker.harry.lu^$important
 @@|ipv4announce.sktorrent.eu^$important
 @@|ipv4only.arpa^$important
@@ -2950,7 +2941,6 @@
 @@|m.media-amazon.com^$important
 @@|m.playstation.com^$important
 @@|m.plus.google.com^$important
-@@|m.sni.global.fastly.net^$important
 @@|m.soundcloud.com^$important
 @@|m.store.apple.com^$important
 @@|m.store.sony.com^$important
@@ -3026,7 +3016,6 @@
 @@|me4prodfeapp0002.ea.com^$important
 @@|mea-public.biowareonline.net^$important
 @@|media*.giphy.com^$important
-@@|media.amazon.map.fastly.net^$important
 @@|media.babesource.com^$important
 @@|media.binglee.com.au^$important
 @@|media.bunnings.com.au^$important
@@ -3323,7 +3312,6 @@
 @@|myip.wtf^$important
 @@|my-opa.donateblood.com.au^$important
 @@|mysql.com^$important
-@@|n.sni.global.fastly.net^$important
 @@|n9e5v4d8.ssl.hwcdn.net^$important
 @@|na.edge.kernel.org^$important
 @@|nab.com.au.ssl.d1.sc.omtrdc.net^$important
@@ -3645,7 +3633,6 @@
 @@|payment-website-pci.ol.epicgames.com^$important
 @@|paypal.com^$important
 @@|paypal.de^$important
-@@|paypal-dynamic-cdn.map.fastly.net^$important
 @@|paypalobjects.com^$important
 @@|pc.ea.com^$important
 @@|pc-assets.ea.com^$important
@@ -3950,7 +3937,6 @@
 @@|recaptcha.net^$important
 @@|recommendations-api.gog.com^$important
 @@|redcross.org^$important
-@@|reddit.map.fastly.net^$important
 @@|redditstatic.com^$important
 @@|redeem.gog.com^$important
 @@|redemptionservices.accesscontrol.windows.net^$important
@@ -4444,7 +4430,6 @@
 @@|static1.xdaimages.com^$important
 @@|static2.sharepointonline.com^$important
 @@|static-ah.xhcdn.com^$important
-@@|statically.map.fastly.net^$important
 @@|static-assets-prod.epicgames.com^$important
 @@|static-assets-prod.unrealengine.com^$important
 @@|static-cache.k2s.cc^$important
@@ -4549,7 +4534,6 @@
 @@|streamlabs.com^$important
 @@|streamtape.com^$important
 @@|streetviewpixels-pa.googleapis.com^$important
-@@|stripecdn.map.fastly.net^$important
 @@|st-syd-02.gcomm.com.au.prod.hosts.ooklaserver.net^$important
 @@|st-syd-02.gcomm.com.au^$important
 @@|studio.youtube.com^$important
@@ -4643,7 +4627,6 @@
 @@|talon-service-v4-prod.ak.epicgames.com^$important
 @@|talon-website-prod.ak.epicgames.com^$important
 @@|talon-website-prod.ecosec.on.epicgames.com^$important
-@@|tampermonkey.freetls.fastly.net^$important
 @@|target.com.au^$important
 @@|target.com^$important
 @@|taskassist-pa.clients6.google.com^$important
@@ -4911,7 +4894,6 @@
 @@|tw.blog.twitch.tv^$important
 @@|twemoji.maxcdn.com^$important
 @@|twitch.amazon.com^$important
-@@|twitch.map.fastly.net^$important
 @@|twitch.tv^$important
 @@|u.peer-exchange.download^$important
 @@|u6571834.ct.sendgrid.net^$important
@@ -5768,7 +5750,6 @@
 @@|yt-dl.org^$important
 @@|ytimg.l.google.com^$important
 @@|zady.cdntrex.com^$important
-@@|zd.map.fastly.net^$important
 @@|zdstatic.speedtest.net^$important
 @@|zenz-solutions.de^$important
 @@|zerossl.ocsp.sectigo.com^$important
