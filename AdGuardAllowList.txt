@@ -20,7 +20,7 @@
 @@|*.*.onedrive.live.com^$important
 @@|*.*.pool.ntp.org^$important
 @@|*.*.storage.live.com^$important
-@@|*.*.storage.msn.com^$important
+/^(|api|arc|assets|ntp|srtp|staticview|www|((*\.)?*\.)?storage)\.msn\.com$/
 @@|*._dns-sd._udp.*.in-addr.arpa^$important
 @@|*.abs.hls.ttvnw.net^$important
 @@|*.ahcdn.com^$important
@@ -95,7 +95,6 @@
 @@|*.steamcontent.com^$important
 @@|*.steamserver.net^$important
 @@|*.storage.live.com^$important
-@@|*.storage.msn.com^$important
 @@|*.tapecontent.net^$important
 @@|*.time.system76.com^$important
 @@|*.update.microsoft.com^$important
@@ -438,7 +437,6 @@
 @@|api.locize.app^$important
 @@|api.mapbox.com^$important
 @@|api.metadataapi.net^$important
-@@|api.msn.com^$important
 @@|api.my.gov.au^$important
 @@|api.na-backend.odysee.com^$important
 @@|api.nab.com.au^$important
@@ -545,7 +543,6 @@
 @@|apx-security.amazon.com.au^$important
 @@|arbiter.warframe.com^$important
 @@|arc.com.au^$important
-@@|arc.msn.com*^$important
 @@|archive.canonical.com^$important
 @@|archive.newpipe.net^$important
 @@|archive.org^$important
@@ -576,7 +573,6 @@
 @@|aspmx.l.google.com^$important
 @@|aspmx2.googlemail.com^$important
 @@|aspmx3.googlemail.com^$important
-@@|assets*.msn.com^$important
 @@|assets*.xboxlive.com^$important
 @@|assets-cdn.github.com^$important
 @@|assets-www.xbox.com^$important
@@ -595,7 +591,6 @@
 @@|assets.hulu.com^$important
 @@|assets.kogan.com^$important
 @@|assets.mozilla.net^$important
-@@|assets.msn.com^$important
 @@|assets.msy.com.au^$important
 @@|assets.onestore.ms^$important
 @@|assets.oneweb.mercedes-benz.com^$important
@@ -3370,7 +3365,6 @@
 @@|nsw.speedtest.exetel.com.au^$important
 @@|nswdac-covid-19-postcode-heatmap.azurewebsites.net^$important
 @@|ntfy.sh^$important
-@@|ntp.msn.com^$important
 @@|ntp.ubuntu.com^$important
 @@|nuget.info^$important
 @@|nuget.org^$important
@@ -4304,7 +4298,6 @@
 @@|sqlite.org^$important
 @@|sqlitebrowser.org^$important
 @@|squidblacklist.org^$important
-@@|srtb.msn.com^$important
 @@|srv*.zload.cc^$important
 @@|srv.au.ebayrtm.com^$important
 @@|srv01.codefusion.technology^$important
@@ -4441,7 +4434,6 @@
 @@|statics.cdntrex.com^$important
 @@|statics.teams.cdn.live.net^$important
 @@|staticstats.nexusmods.com^$important
-@@|staticview.msn.com^$important
 @@|stats-prod.svc.gearsofwar.net^$important
 @@|stats.appwork.org^$important
 @@|stats.cdn.ubisoft.com^$important
@@ -4484,7 +4476,6 @@
 @@|storage.cloud.google.com^$important
 @@|storage.googleapis.com^$important
 @@|storage.live.com^$important
-@@|storage.msn.com^$important
 @@|store-content-ipv4.ak.epicgames.com^$important
 @@|store-images.microsoft.com^$important
 @@|store-images.s-microsoft.com^$important
@@ -5483,7 +5474,6 @@
 @@|www.msftconnecttest.com*^$important
 @@|www.msftncsi.com^$important
 @@|www.msi.com^$important
-@@|www.msn.com^$important
 @@|www.msy.com.au^$important
 @@|www.mwave.com.au^$important
 @@|www.my.commbank.com.au^$important
