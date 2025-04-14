@@ -2,7 +2,7 @@
 /^((account|api|app|prod\-(assets|nginz\-(https|ssl)))\.)?wire\.com$/
 /^((connectivitycheck|encrypted\-(tbn[0-9]|vtbn0)|fonts|maps|ssl|t*|www)\.)?gstatic\.com$/
 /^((yt3|ci3[3-6]|clients2|doc\-*\-(docs|drive-data-export)|drive-thirdparty|feedback|(googlehosted|photos-ugc)\.l|kstatic|lh[0-9]|mail\-attachment|play-lh)\.)?googleusercontent\.com$/
-/^(|api|arc|assets|ntp|srtp|staticview|www|((*\.)?*\.)?storage)\.msn\.com$/
+/^(api|arc|assets|ntp|srtp|staticview|www|((*\.)?*)?\.?storage)?\.msn\.com$/
 /^(shared\.?(akamai|fastly)?|(avatars|cdn|clan|clientconfig|client-update|community|store|video)\.?(akamai|cloudflare|fastly)?)\.steamstatic\.com$/
 /^(targetednotifications|turn\mcc(01)?|vcode\-sync|web\.vortex\.data)\-tm\.trafficmanager\.net$/
 @@|*-*-*-*.brokendnssec.net^$important
@@ -10,14 +10,14 @@
 @@|*-*-stor*.uploaded.net^$important
 @@|*.*.livefilestore.com^$important
 @@|*.*.onedrive.live.com^$important
-@@|*.*.pool.ntp.org^$important
+/^(([0-3]|au|de|fr|hk|jp|www|*\.*)\.)?pool.ntp.org$/
 @@|*.*.storage.live.com^$important
 @@|*._dns-sd._udp.*.in-addr.arpa^$important
 @@|*.abs.hls.ttvnw.net^$important
 @@|*.ahcdn.com^$important
 @@|*.aria.microsoft.com^$important
 @@|*.australiasoutheast.cloudapp.azure.com^$important
-@@|*.awsglobalaccelerator.com^$important
+@@||*.awsglobalaccelerator.com^$important
 @@|*.b.akamaiedge.net^$important
 @@|*.battle.net^$important
 @@|*.bootstrap.libp2p.io^$important
@@ -142,13 +142,12 @@
 @@|_https._tcp.motd.ubuntu.com^$important
 @@|_https._tcp.packages.zorinos.com^$important
 @@|ads-fa-darwin.hulustream.com^$important
-@@|agoda.com^$important
-@@|apple.com^$important
-@@|b-graph.facebook.com^$important
+@@||agoda.com^$important
+@@||apple.com^$important
+/^(((b\-)|(z\-m\-))?graph(\-fallback)?|connect|web)\.facebook\.com$/
 @@|cbsaavideo.com^$important
 @@|cbsi.com^$important
 @@|confection.io^$important
-@@|connect.facebook.com^$important
 @@|consent.yahoo.com^$important
 @@|conviva.com^$important
 @@|convivia.com^$important
@@ -160,12 +159,10 @@
 @@|eulatracking-public-service-prod06.ol.epicgames.com^$important
 @@|gfe.nvidia.com^$important
 @@|glimmer.hearstapps.com^$important
-@@|graph.facebook.com^$important
 @@|graph.instagram.com^$important
-@@|graph-fallback.facebook.com^$important
 @@|graph-fallback.instagram.com^$important
 @@|guce.oath.com^$important
-@@|home.arpa^$important
+@@||home.arpa^$important
 @@|i.instagram.com^$important
 @@|istole.it^$important
 @@|js.media-lab.ai^$important
@@ -182,10 +179,10 @@
 @@|production-cmp.isgprivacy.cbsi.com^$important
 @@|pubads.g.doubleclick.net^$important
 @@|publichd.eu^$important
-@@|s.youtube.com^$important
+/^((accounts|img|m|music|s(2)?|studio|tv|www)\.)?youtube.com$/
 @@|saa.cbsi.com^$important
-@@|shopee.co.th^$important
-@@|sonar21.com^$important
+@@||shopee.co.th^$important
+@@||sonar21.com^$important
 @@|srv.sec.intl.miui.com^$important
 @@|copilot.microsoft.com^$important
 @@|copilot-copilot-msft-com.trafficmanager.net^$important
@@ -196,11 +193,8 @@
 @@|update.intl.miui.com^$important
 @@|us04logfiles.zoom.us^$important
 @@|us04zpns.zoom.us^$important
-@@|xp.apple.com^$important
-@@|z-m-graph.facebook.com^$important
 @@|0.client-channel.google.com^$important
 @@|0.gravatar.com^$important
-@@|0.pool.ntp.org^$important
 @@|0.wikipedia.com^$important
 @@|0eaf.cardinalcommerce.com^$important
 @@|0patch.com^$important
@@ -208,7 +202,6 @@
 @@|1.a79ab95c1589a13f8a4cab612bc71f9f7.com^$important
 @@|1.b406929acabac9b095f124c81bdfcf57f.com^$important
 @@|1.c81358859121583b7adf2ace89cb39f44.com^$important
-@@|1.pool.ntp.org^$important
 @@|1337x.to^$important
 @@|149366088.v2.pressablecdn.com^$important
 @@|15.2.0.10.in-addr.arpa^$important
@@ -222,12 +215,10 @@
 @@|1fichier.com^$important
 @@|1storecatalogrevocation.storequality.microsoft.com^$important
 @@|2.au.download.windowsupdate.com^$important
-@@|2.pool.ntp.org^$important
 @@|204.pop-os.org^$important
 @@|22pixx.xyz^$important
 @@|2aed6ghjsb4436qtebuqk3gfzq0xeauy.lambda-url.us-east-1.on.aws^$important
 @@|3.au.download.windowsupdate.com^$important
-@@|3.pool.ntp.org^$important
 @@|4shared.com^$important
 @@|5jwrcdlteg.execute-api.us-east-1.amazonaws.com^$important
 @@|7a33fb9be34a.cdn4.forter.com^$important
@@ -300,7 +291,6 @@
 @@|accounts.scdn.co^$important
 @@|accounts.soundcloud.com^$important
 @@|accounts.spotify.com^$important
-@@|accounts.youtube.com^$important
 @@|accounts-cctld.l.google.com^$important
 @@|accounts-static.cdn.mozilla.net^$important
 @@|acctcdn.msauth.net^$important
@@ -362,7 +352,6 @@
 @@|akamaihd.net^$important
 @@|akamaitechnologies.com^$important
 @@|akamaized.net^$important
-@@|albert.apple.com^$important
 @@|albums1.cdntrex.com^$important
 @@|alchemysage.azurefd.net^$important
 @@|aldi.com.au^$important
@@ -531,7 +520,6 @@
 @@|api-da.wixmp.com^$important
 @@|api-dev.ageofempires.com^$important
 @@|api-embedded.soundcloud.com^$important
-@@|api-glb.smoot.apple.com^$important
 @@|api-global.netflix.com^$important
 @@|apigw.coles.com.au^$important
 @@|api-m.paypal.com^$important
@@ -573,8 +561,6 @@
 @@|appboot.netflix.com^$important
 @@|appengine.google.com^$important
 @@|app-images.ea.com^$important
-@@|appldnld.apple.com^$important
-@@|appleid.apple.com^$important
 @@|apply.service.nsw.gov.au^$important
 @@|app-rgl-prod.ros.rockstargames.com^$important
 @@|apps.fedoraproject.org^$important
@@ -677,7 +663,6 @@
 @@|au.mirrors.cicku.me^$important
 @@|au.pcpartpicker.com^$important
 @@|au.playstation.com^$important
-@@|au.pool.ntp.org^$important
 @@|au.v4.download.windowsupdate.com^$important
 @@|audible.com^$important
 @@|audio-ak.spotify.com.edgesuite.net^$important
@@ -733,8 +718,6 @@
 @@|av-updateservice.adaware.com^$important
 @@|awards.netflix.com^$important
 @@|aws1.discourse-cdn.com^$important
-@@|ax.init.itunes.apple.com^$important
-@@|ax.itunes.apple.com^$important
 @@|ax.phobos.apple.com.edgesuite.net^$important
 @@|axon-assets-cdn.razerzone.com^$important
 @@|az667904.vo.msecnd.net^$important
@@ -998,14 +981,14 @@
 @@|cdn.canstar.com.au^$important
 @@|cdn.canstarblue.com.au^$important
 @@|cdn.chocolatey.org^$important
-@@|cdn.cloudflare.net^$important
+@@||cdn.cloudflare.net^$important
 @@|cdn.contentful.com^$important
 @@|cdn.cookielaw.org^$important
 @@|cdn.cquotient.com^$important
 @@|cdn.cyberdrop.me^$important
 @@|cdn.cyberdrop.to^$important
 @@|cdn.datatables.net^$important
-@@|cdn.dbdtwitch.com^$important
+@@||cdn.dbdtwitch.com^$important
 @@|cdn.discordapp.com^$important
 @@|cdn.downdetector.com^$important
 @@|cdn.download.clearlinux.org^$important
@@ -1018,7 +1001,6 @@
 @@|cdn.frankerfacez.com^$important
 @@|cdn.freeones.com^$important
 @@|cdn.fwupd.org^$important
-@@|cdn.globalsigncdn.com.cdn.cloudflare.net^$important
 @@|cdn.gog.com^$important
 @@|cdn.gpsoft.com.au^$important
 @@|cdn.graph.office.net^$important
@@ -1029,7 +1011,6 @@
 @@|cdn.imagecurl.com^$important
 @@|cdn.iubenda.com^$important
 @@|cdn.joinhoney.com^$important
-@@|cdn.jsdelivr.net.cdn.cloudflare.net^$important
 @@|cdn.jsdelivr.net^$important
 @@|cdn.jwplayer.com^$important
 @@|cdn.kde.org^$important
@@ -1446,7 +1427,6 @@
 @@|dashboard.twitch.tv^$important
 @@|dashbox.soundcloud.com^$important
 @@|data*.origin.com^$important
-@@|data.microsoft.com.akadns.net^$important
 @@|data.nexusmods.com^$important
 @@|data.nsw.gov.au^$important
 @@|data.product.lastpass.com^$important
@@ -1471,7 +1451,6 @@
 @@|de-*-mirror.chaotic.cx^$important
 @@|de.aliexpress.com^$important
 @@|de.playstation.com^$important
-@@|de.pool.ntp.org^$important
 @@|de.wikipedia.com^$important
 @@|deals.ghacks.net^$important
 @@|deals-assets-cdn.razerzone.com^$important
@@ -1512,7 +1491,6 @@
 @@|dev.virtualearth.net^$important
 @@|dev.xbox.com^$important
 @@|devblogs.microsoft.com^$important
-@@|developer.apple.com^$important
 @@|developer.download.nvidia.com^$important
 @@|developer.fedoraproject.org^$important
 @@|developer.github.com^$important
@@ -1567,7 +1545,6 @@
 @@|discovery-infiniteugc.svc.halowaypoint.com^$important
 @@|discuss.dev.twitch.tv^$important
 @@|discuss.getsol.us^$important
-@@|discussions.apple.com^$important
 @@|disq.us^$important
 @@|disqus.com^$important
 @@|disquscdn.com^$important
@@ -1838,6 +1815,7 @@
 @@|emea01.safelinks.protection.outlook.com^$important
 @@|emea-storm.ubi.com^$important
 @@|emerald.xboxservices.com^$important
+@@|prod-streaming-video-msn-com^$important
 @@|empdownprd.samsungcloudsolution.com^$important
 @@|ems-delivery.api.playstation.com^$important
 @@|en.m.wikipedia.com^$important
@@ -2132,7 +2110,6 @@
 @@|fr.aliexpress.com^$important
 @@|fr.blog.twitch.tv^$important
 @@|fr.playstation.com^$important
-@@|fr.pool.ntp.org^$important
 @@|fr.uptodown.com^$important
 @@|fr.wikipedia.com^$important
 @@|fr2.rpmfind.net^$important
@@ -2386,7 +2363,6 @@
 @@|grid.filefactory.com^$important
 @@|groups.gameservices.ea.com^$important
 @@|groups.google.com^$important
-@@|gs.apple.com^$important
 @@|gsl-syd.mm.fcix.net^$important
 @@|gsprodblapp-*.ea.com^$important
 @@|gu.glarysoft.com^$important
@@ -2459,7 +2435,6 @@
 @@|history.paypal.com^$important
 @@|hitnews.com^$important
 @@|hk.mirrors.thegigabit.com^$important
-@@|hk.pool.ntp.org^$important
 @@|hkg.mirror.rackspace.com^$important
 @@|hls*.xvideos-cdn.com^$important
 @@|hls1-l3.xvideos-cdn.com^$important
@@ -2617,7 +2592,6 @@
 @@|img.teams.skype.com^$important
 @@|img.x.soundcloud.com^$important
 @@|img.xda-developers.com^$important
-@@|img.youtube.com^$important
 @@|img3.hulu.com^$important
 @@|img33.imagetwist.com^$important
 @@|img-deviantart.wixmp.com^$important
@@ -2716,8 +2690,6 @@
 @@|it2.mirror.vhosting-it.com^$important
 @@|items.gog.com^$important
 @@|itsfoss.com^$important
-@@|itunes.apple.com^$important
-@@|itunesconnect.apple.com^$important
 @@|ixpeering.dl.sourceforge.net^$important
 @@|ja.wikipedia.com^$important
 @@|java.com^$important
@@ -2735,7 +2707,6 @@
 @@|jp.blog.twitch.tv^$important
 @@|jp.pipe.aria.microsoft.com^$important
 @@|jp.playstation.com^$important
-@@|jp.pool.ntp.org^$important
 @@|jp.wikipedia.com^$important
 @@|jpcloud01.powercloud.cyberlink.com^$important
 @@|jquery.com^$important
@@ -2937,13 +2908,11 @@
 @@|m.playstation.com^$important
 @@|m.plus.google.com^$important
 @@|m.soundcloud.com^$important
-@@|m.store.apple.com^$important
 @@|m.store.sony.com^$important
 @@|m.stripe.com^$important
 @@|m.stripe.network^$important
 @@|m.twitch.tv^$important
 @@|m.xbox.com^$important
-@@|m.youtube.com^$important
 @@|m1.nsimg.net^$important
 @@|m2.nsimg.net^$important
 @@|m2.svc.www.evernote.com^$important
@@ -3016,7 +2985,6 @@
 @@|media.bunnings.com.au^$important
 @@|media.contentapi.ea.com^$important
 @@|media.discordapp.net^$important
-@@|media.fab.com.cdn.cloudflare.net^$important
 @@|media.fab.com^$important
 @@|media.freeones.com^$important
 @@|media.githubusercontent.com^$important
@@ -3280,7 +3248,6 @@
 @@|music.samsung.com^$important
 @@|music.twitch.tv^$important
 @@|music.xbox.com^$important
-@@|music.youtube.com^$important
 @@|musicart.xboxlive.com^$important
 @@|mute.bradconte.com^$important
 @@|muug.ca^$important
@@ -3433,7 +3400,6 @@
 @@|oca-api.netflix.com^$important
 @@|ocsp*.globalsign.com^$important
 @@|ocsp.*.amazontrust.com^$important
-@@|ocsp.comodoca.com.cdn.cloudflare.net^$important
 @@|ocsp.comodoca.com^$important
 @@|ocsp.comodoca4.com^$important
 @@|ocsp.digicert.com^$important
@@ -3732,7 +3698,6 @@
 @@|policy.samsungcloud.com^$important
 @@|pollserver.lastpass.com^$important
 @@|pool.apk.aptoide.com^$important
-@@|pool.ntp.org^$important
 @@|pop.system76.com^$important
 @@|pop-iso.sfo2.cdn.digitaloceanspaces.com^$important
 @@|pop-os.org^$important
@@ -4042,9 +4007,7 @@
 @@|s.go-mpulse.net^$important
 @@|s.imgur.com^$important
 @@|s.rsg.sc^$important
-@@|s.youtube.com^$important
 @@|s.ytimg.com^$important
-@@|s2.youtube.com^$important
 @@|s295.pornone.com^$important
 @@|s3.nzbcloud.com^$important
 @@|s3.us-west-002.backblazeb2.com^$important
@@ -4494,7 +4457,6 @@
 @@|storage-upload.googleapis.com^$important
 @@|store.acer.com^$important
 @@|store.aldi.com.au^$important
-@@|store.apple.com^$important
 @@|store.bethesda.net^$important
 @@|store.epicgames.com^$important
 @@|store.google.com^$important
@@ -4529,7 +4491,6 @@
 @@|streetviewpixels-pa.googleapis.com^$important
 @@|st-syd-02.gcomm.com.au.prod.hosts.ooklaserver.net^$important
 @@|st-syd-02.gcomm.com.au^$important
-@@|studio.youtube.com^$important
 @@|studiostaticassetsprod.azureedge.net^$important
 @@|style.sndcdn.com^$important
 @@|styles.redditmedia.com^$important
@@ -4544,7 +4505,6 @@
 @@|support.adaware.com^$important
 @@|support.ageofempires.com^$important
 @@|support.anydesk.com^$important
-@@|support.apple.com^$important
 @@|support.asia.playstation.com^$important
 @@|support.brave.com^$important
 @@|support.cloudflare.com^$important
@@ -4879,7 +4839,6 @@
 @@|tutorial.notable.app^$important
 @@|tutorial.notable.md^$important
 @@|tv.vimeo.com^$important
-@@|tv.youtube.com^$important
 @@|tvpndynamiclogopus.samsungcloud.tv^$important
 @@|tvpnlinupepgpus.samsungcloud.tv^$important
 @@|tvpnlogopus.samsungcloud.tv^$important
@@ -5008,7 +4967,6 @@
 @@|us.playstation.com^$important
 @@|us-as.gr-cdn.com^$important
 @@|us-auth2.samsungosp.com^$important
-@@|use.fontawesome.com.cdn.cloudflare.net^$important
 @@|use.fontawesome.com^$important
 @@|use.fortawesome.com^$important
 @@|use.typekit.net^$important
@@ -5281,7 +5239,6 @@
 @@|www.brave.com^$important
 @@|www.bromite.org^$important
 @@|www.browserbench.org^$important
-@@|www.bunnings.com.au.cdn.cloudflare.net^$important
 @@|www.bunnings.com.au^$important
 @@|www.burnaware.com^$important
 @@|www.camwhoresbay.com^$important
@@ -5334,7 +5291,6 @@
 @@|www.dropbox.com^$important
 @@|www.dsogaming.com^$important
 @@|www.ea.com^$important
-@@|www.easeus.com.cdn.cloudflare.net^$important
 @@|www.easeus.com^$important
 @@|www.easyuefi.com^$important
 @@|www.ebay.com.au^$important
@@ -5471,7 +5427,6 @@
 @@|www.mipony.net^$important
 @@|www.mirrorservice.org^$important
 @@|www.moddb.com^$important
-@@|www.mozilla.org.cdn.cloudflare.net^$important
 @@|www.mozilla.org^$important
 @@|www.msftconnecttest.com*^$important
 @@|www.msftncsi.com^$important
@@ -5538,7 +5493,6 @@
 @@|www.pling.com^$important
 @@|www.podnapisi.net^$important
 @@|www.police.nsw.gov.au^$important
-@@|www.pool.ntp.org^$important
 @@|www.pornhub.com^$important
 @@|www.porntrex.com^$important
 @@|www.portableupdate.com^$important
@@ -5587,7 +5541,6 @@
 @@|www.snappy-driver-installer.org^$important
 @@|www.sourceforge.net^$important
 @@|www.speedguide.net^$important
-@@|www.speedtest.net.cdn.cloudflare.net^$important
 @@|www.speedtest.net^$important
 @@|www.spintel.net.au^$important
 @@|www.spotify.com^$important
@@ -5662,7 +5615,6 @@
 @@|www.xradio.nl^$important
 @@|www.xvideos.com^$important
 @@|www.xvideos.red^$important
-@@|www.youtube.com^$important
 @@|www.youtubekids.com^$important
 @@|www.youtube-nocookie.com^$important
 @@|www.zotac.com^$important
@@ -5724,7 +5676,6 @@
 @@|yimg.com^$important
 @@|youpornpremium.com^$important
 @@|youtu.be^$important
-@@|youtube.com^$important
 @@|youtube-dl.org^$important
 @@|youtubei.googleapis.com^$important
 @@|youtube-nocookie.com^$important
@@ -5745,10 +5696,10 @@
 @@|zpu.samsungelectronics.com^$important
 @@|zrn.co^$important
 @@|ztd.dds.microsoft.com^$important
-@@|protonvpn.com^$important
-@@|proton.me^$important
-@@|privado.io^$important
+@@||protonvpn.com^$important
+@@||proton.me^$important
+@@||privado.io^$important
 @@|line.me^$important
-@@|line-apps.com^$important
-@@|line-scdn.net^$important
-@@|lineinfra-dev.com^$important
+@@||line-apps.com^$important
+@@||line-scdn.net^$important
+@@||lineinfra-dev.com^$important
