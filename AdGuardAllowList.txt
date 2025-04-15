@@ -5,13 +5,15 @@
 /^(api|arc|assets|ntp|srtp|staticview|www|((*\.)?*)?\.?storage)?\.msn\.com$/
 /^(shared\.?(akamai|fastly)?|(avatars|cdn|clan|clientconfig|client-update|community|store|video)\.?(akamai|cloudflare|fastly)?)\.steamstatic\.com$/
 /^(targetednotifications|turn\mcc(01)?|vcode\-sync|web\.vortex\.data)\-tm\.trafficmanager\.net$/
-/^*\.mcmullin\.(biz|me|org|one|xyz)$/
+@@|parallels.com^important
+@@|*.parallels.com^important
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*.totallyacdn.com^$important
 @@|*-*-stor*.uploaded.net^$important
 @@|*.*.livefilestore.com^$important
 @@|*.*.onedrive.live.com^$important
-/^(([0-3]|au|de|fr|hk|jp|www|*\.*)\.)?pool.ntp.org$/
+@@|pool.ntp.org^$important
+@@|*.pool.ntp.org^$important
 @@|*.*.storage.live.com^$important
 @@|*._dns-sd._udp.*.in-addr.arpa^$important
 @@|*.abs.hls.ttvnw.net^$important
