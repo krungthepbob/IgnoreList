@@ -556,6 +556,8 @@
 @@|appengine.google.com^$important
 @@|app-images.ea.com^$important
 @@|apple-dns.net^$important
+@@|*apple-dns.net^$important
+@@|api.apple-cloudkit.com^$important
 @@|apple-relay.cloudflare.com^$important
 @@|apply.service.nsw.gov.au^$important
 @@|app-rgl-prod.ros.rockstargames.com^$important
@@ -902,14 +904,12 @@
 @@|cache2-mel-edgx.steamcontent.com^$important
 @@|cache2-per-edgx.steamcontent.com^$important
 @@|caddyserver.com^$important
-@@|caldav.fe.apple-dns.net^$important
 @@|caldav.icloud.com^$important
 @@|calendar.google.com^$important
 @@|calendar.proton.me^$important
 @@|calendar.protonmail.com^$important
 @@|calendar-pa.clients*.google.com^$important
 @@|calendarpushsubscription-pa.googleapis.com^$important
-@@|calendars.fe.apple-dns.net^$important
 @@|calendarsync-pa.googleapis.com^$important
 @@|ca-mirror.chaotic.cx^$important
 @@|camo.githubusercontent.com^$important
@@ -4403,6 +4403,7 @@
 @@|static.gumtree.com.au^$important
 @@|static.hsstatic.net^$important
 @@|static.icloud.com^$important
+@@|metrics.icloud.com^$important
 @@|static.intercomassets.com^$important
 @@|static.itch.io^$important
 @@|static.kickstarter.com^$important
@@ -5275,6 +5276,13 @@
 @@|www.aldimobile.com.au^$important
 @@|www.alphacoders.com^$important
 @@|www.amazon.com.au^$important
+@@|lazada.co.th^$important
+@@|*.lazada.co.th^$important
+@@|aliapp.org^$important
+@@|*.aliapp.org^$important
+@@|alibaba.com^$important
+@@|*.alibaba.com^$important
+@@|msh.amazon.com^$important
 @@|www.amd.com^$important
 @@|www.android.com^$important
 @@|www.androidauthority.com^$important
