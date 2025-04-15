@@ -310,7 +310,6 @@
 @@|addons-themes.operacdn.com^$important
 @@|adguard.com^$important
 @@|adguard-dns.io^$important
-@@|adguardteam.github.io^$important
 @@|adidas.com^$important
 @@|adl.windows.com^$important
 @@|admin.fedoraproject.org^$important
@@ -448,9 +447,10 @@
 @@|api.metadataapi.net^$important
 @@|aaplimg.com^$important
 @@|*.aaplimg.com^$important
-@@|server.events.data.microsoft.com^important
-@@|v10.events.data.microsoft.com^important
-@@|v20.events.data.microsoft.com^important
+@@|server.events.data.microsoft.com^$important
+@@|eu-mobile.events.data.microsoft.com^$important
+@@|v10.events.data.microsoft.com^$important
+@@|v20.events.data.microsoft.com^$important
 @@|api.my.gov.au^$important
 @@|api.nab.com.au^$important
 @@|api.na-backend.odysee.com^$important
@@ -4004,7 +4004,6 @@
 @@|rewards.cdn.ubisoft.com^$important
 @@|rewards.live.cdpred.services^$important
 @@|rewards.xbox.com^$important
-@@|rg3.github.io^$important
 @@|rgl.rockstargames.com^$important
 @@|rgl-prod.ros.rockstargames.com^$important
 @@|ridgewireless.mm.fcix.net^$important
