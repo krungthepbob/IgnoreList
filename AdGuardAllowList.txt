@@ -446,6 +446,8 @@
 @@|api.locize.app^$important
 @@|api.mapbox.com^$important
 @@|api.metadataapi.net^$important
+@@|aaplimg.com^$important
+@@|*.applimg.com^$important
 @@|api.my.gov.au^$important
 @@|api.nab.com.au^$important
 @@|api.na-backend.odysee.com^$important
