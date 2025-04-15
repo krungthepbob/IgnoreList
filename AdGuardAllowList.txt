@@ -1426,8 +1426,8 @@
 @@|data*.origin.com^$important
 @@|data.microsoft.com^$important
 @@|events.data.microsoft.com^$important
-@@|self.data.microsoft.com^$important
-@@|teams.data.microsoft.com^$important
+@@|self.events.data.microsoft.com^$important
+@@|teams.events.data.microsoft.com^$important
 @@|settings-win.data.microsoft.com^$important
 @@|mobile.events.data.microsoft.com^$important
 @@|data.nexusmods.com^$important
