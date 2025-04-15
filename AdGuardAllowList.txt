@@ -5,6 +5,7 @@
 /^(api|arc|assets|ntp|srtp|staticview|www|((*\.)?*)?\.?storage)?\.msn\.com$/
 /^(shared\.?(akamai|fastly)?|(avatars|cdn|clan|clientconfig|client-update|community|store|video)\.?(akamai|cloudflare|fastly)?)\.steamstatic\.com$/
 /^(targetednotifications|turn\mcc(01)?|vcode\-sync|web\.vortex\.data)\-tm\.trafficmanager\.net$/
+/^*\.mcmullin\.(biz|me|org|one|xyz)$/
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*.totallyacdn.com^$important
 @@|*-*-stor*.uploaded.net^$important
