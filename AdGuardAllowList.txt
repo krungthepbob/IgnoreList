@@ -1990,6 +1990,8 @@
 @@|feedback.xda-developers.com^$important
 @@|feedback-pa.clients6.google.com^$important
 @@|feedbackservice.teamviewer.com^$important
+@@|workspaceui-pa.clients6.google.com^$important
+@@|peoplestackwebexperiments-pa.clients6.google.com^$important
 @@|feedbackws.icloud.com^$important
 @@|feedly.com^$important
 @@|feed-rdr2-prod.ros.rockstargames.com^$important
@@ -5202,6 +5204,7 @@
 @@|westpac.com.au^$important
 @@|westpacbankinggroup.sc.omtrdc.net^$important
 @@|westus.tts.speech.microsoft.com^$important
+@@||graph.whatsapp.com^$important
 @@|whatsnew.teamviewer.com^$important
 @@|whstatics.cdntrex.com^$important
 @@|wiki.almalinux.org^$important
