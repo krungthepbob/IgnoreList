@@ -1,4 +1,4 @@
-/^((*\.)?(dl\.)?delivery|((cdn\.)?storeedgefd|livetileedge|storesdk)\.dsx|collections(\.md)?|displaycatalog|licensing|((*\.prod\.do)|tsfe\.trafficshaping)\.dsp|*displaycatalog|*licensing|paymentinstruments|purchase|reco-public.rec)\.mp.microsoft.com$/
+/^((*\.)?(dl\.)?delivery)|((cdn\.)?storeedgefd)|livetileedge|storesdk\.dsx|collections(\.md)?|displaycatalog|licensing|((*\.prod\.do)|tsfe\.trafficshaping)\.dsp|*displaycatalog|*licensing|paymentinstruments|purchase|reco-public.rec\.mp.microsoft.com$/
 /^((account|api|app|prod\-(assets|nginz\-(https|ssl)))\.)?wire\.com$/
 /^((connectivitycheck|encrypted\-(tbn[0-9]|vtbn0)|fonts|maps|ssl|t*|www)\.)?gstatic\.com$/
 /^((yt3|ci3[3-6]|clients2|doc\-*\-(docs|drive-data-export)|drive-thirdparty|feedback|(googlehosted|photos-ugc)\.l|kstatic|lh[0-9]|mail\-attachment|play-lh)\.)?googleusercontent\.com$/
