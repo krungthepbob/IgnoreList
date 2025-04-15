@@ -1,5 +1,5 @@
 /^(((b\-)|(z\-m\-))?graph(\-fallback)?|connect|web)\.facebook\.com$/
-/^((*\.)?(dl\.)?delivery)|((cdn\.)?storeedgefd)|livetileedge|storesdk\.dsx|collections(\.md)?|displaycatalog|licensing|((*\.prod\.do))\.dsp|*displaycatalog|*licensing|paymentinstruments|purchase|reco-public.rec\.mp.microsoft.com$/
+/^((*\.)?(dl\.)?delivery)|livetileedge|storesdk\.dsx|collections(\.md)?|displaycatalog|licensing|((*\.prod\.do))\.dsp|*displaycatalog|*licensing|paymentinstruments|purchase|reco-public.rec\.mp.microsoft.com$/
 /^((account|api|app|prod\-(assets|nginz\-(https|ssl)))\.)?wire\.com$/
 /^((accounts|img|m|music|s(2)?|studio|tv|www)\.)?youtube.com$/
 /^((connectivitycheck|encrypted\-(tbn[0-9]|vtbn0)|fonts|maps|ssl|t*|www)\.)?gstatic\.com$/
@@ -10,6 +10,7 @@
 /^(targetednotifications|turn\mcc(01)?|vcode\-sync|web\.vortex\.data)\-tm\.trafficmanager\.net$/
 /^yt[0-9]\.ggpht\.com$/
 @@|tsfe.trafficshaping.dsp.mp.microsoft.com^$important
+@@|storeedgefd.dsx.mp.microsoft.com^$important
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*.totallyacdn.com^$important
 @@|*-*-stor*.uploaded.net^$important
