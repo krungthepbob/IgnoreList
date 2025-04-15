@@ -106,6 +106,7 @@
 @@|*.steamserver.net^$important
 @@|*.storage.live.com^$important
 @@|*.synology.com^$important
+@@|*.*.synology.com^$important
 @@|lightstep.kaizen.nvidia.com^$important
 @@|traffic.libsyn.com^$important
 @@|*.tapecontent.net^$important
