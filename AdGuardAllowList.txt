@@ -92,7 +92,6 @@
 @@|*.pipe.aria.microsoft.com^$important
 @@|*.playfabapi.com^$important
 @@|*.policies.live.net^$important
-@@|*.pool.ntp.org^$important
 @@|*.proxy.yewtu.be^$important
 @@|*.pwdn.net^$important
 @@|*.rdtcdn.com^$important
@@ -172,13 +171,15 @@
 @@||cdn.cloudflare.net^$important
 @@||cdn.dbdtwitch.com^$important
 @@||home.arpa^$important
-@@||line-apps.com^$important
+@@|line-apps.com^$important
+@@|*.line-apps.com^important
 @@||lineinfra-dev.com^$important
 @@||line-scdn.net^$important
 @@||privado.io^$important
 @@||proton.me^$important
 @@||protonvpn.com^$important
-@@||shopee.co.th^$important
+@@|shopee.co.th^$important
+@@|*.shopee.co.th^$important
 @@||sonar21.com^$important
 @@|0.client-channel.google.com^$important
 @@|0.gravatar.com^$important
@@ -3733,7 +3734,6 @@
 @@|policy.samsungcloud.com^$important
 @@|pollserver.lastpass.com^$important
 @@|pool.apk.aptoide.com^$important
-@@|pool.ntp.org^$important
 @@|pop.system76.com^$important
 @@|pop-iso.sfo2.cdn.digitaloceanspaces.com^$important
 @@|pop-os.org^$important
