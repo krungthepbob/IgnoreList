@@ -350,7 +350,6 @@
 @@|alicdn.com^$important
 @@|aliexpress.com^$important
 @@|alipay.com^$important
-@@|alive.github.com^$important
 @@|almalinux.mirror.digitalpacific.com.au^$important
 @@|almalinux.org^$important
 @@|alomar.emsisoft.com^$important
@@ -427,7 +426,6 @@
 @@|api.frankerfacez.com^$important
 @@|api.g.service.nsw.gov.au^$important
 @@|api.giphy.com^$important
-@@|api.github.com^$important
 @@|api.glb.samsung-gamelauncher.com^$important
 @@|api.gog.com^$important
 @@|api.gogalaxy.com^$important
@@ -651,7 +649,6 @@
 @@|assets.zendesk.com^$important
 @@|assets.zorincdn.com^$important
 @@|assets2.razerzone.com^$important
-@@|assets-cdn.github.com^$important
 @@|assets-www.xbox.com^$important
 @@|astrr.ru^$important
 @@|async-px.dynamicyield.com^$important
@@ -1096,7 +1093,6 @@
 @@|cdpn.io^$important
 @@|cec.svc.evernote.com^$important
 @@|cem.services.microsoft.com^$important
-@@|central.github.com^$important
 @@|centrecomstatic.s3.amazonaws.com^$important
 @@|cerberus-front.easyanticheat.net^$important
 @@|cert.mgt.xboxlive.com^$important
@@ -1228,7 +1224,6 @@
 @@|code.videolan.org^$important
 @@|code.visualstudio.com^$important
 @@|codecs.fedoraproject.org^$important
-@@|codeload.github.com^$important
 @@|codemasters.com^$important
 @@|codepen.io^$important
 @@|codesector.*.backblazeb2.com^$important
@@ -1487,7 +1482,6 @@
 @@|de-mirror.chaotic.cx^$important
 @@|deploy.windscribe.com^$important
 @@|depositfiles.com^$important
-@@|desktop.github.com^$important
 @@|desktop.githubusercontent.com^$important
 @@|desktop-config.juno.ea.com^$important
 @@|desktop-config-integration.juno.ea.com^$important
@@ -1503,7 +1497,6 @@
 @@|devblogs.microsoft.com^$important
 @@|developer.download.nvidia.com^$important
 @@|developer.fedoraproject.org^$important
-@@|developer.github.com^$important
 @@|developer.microsoft.com^$important
 @@|developer.mozilla.org^$important
 @@|developer.nvidia.com^$important
@@ -1616,7 +1609,6 @@
 @@|docs.flutter.dev^$important
 @@|docs.freebsd.org^$important
 @@|docs.freetubeapp.io^$important
-@@|docs.github.com^$important
 @@|docs.google.com^$important
 @@|docs.icons8.com^$important
 @@|docs.invidious.io^$important
@@ -1802,7 +1794,6 @@
 @@|editor.swagger.io^$important
 @@|editorial.xboxlive.com^$important
 @@|eds.xboxlive.com^$important
-@@|education.github.com^$important
 @@|eff.org^$important
 @@|eforms.stgeorge.com.au^$important
 @@|egp-idsoc-proxy-prod.ol.epicgames.com^$important
@@ -1903,7 +1894,6 @@
 @@|events.gfe.nvidia.com^$important
 @@|events.mapbox.com^$important
 @@|events.split.io^$important
-@@|events-feed.github.com^$important
 @@|evernote.com^$important
 @@|evernotesupport.zendesk.com^$important
 @@|eviltracker.net^$important
@@ -2291,13 +2281,13 @@
 @@|giano.com.dist.unige.it^$important
 @@|gift.card.auspost^$important
 @@|gigantes.launtel.net.au^$important
-@@|gist.github.com^$important
 @@|gist.githubusercontent.com^$important
 @@|git.io^$important
 @@|git.qbittorrent.org^$important
 @@|git.synz.io^$important
 @@|github.blog^$important
 @@|github.com^$important
+@@|*.github.com^$important
 @@|github.community^$important
 @@|github.dev^$important
 @@|github.developerdan.com^$important
@@ -2394,7 +2384,6 @@
 @@|guce.oath.com^$important
 @@|guc-spclient.spotify.com^$important
 @@|gue1-spclient.spotify.com^$important
-@@|guides.github.com^$important
 @@|gumtree.com.au^$important
 @@|gumtree.com^$important
 @@|gumtreeau-res.cloudinary.com^$important
@@ -2414,7 +2403,6 @@
 @@|handbrake.fr^$important
 @@|hardware.support.eu.playstation.com^$important
 @@|harveynorman.com.au^$important
-@@|hash.github.com^$important
 @@|hash.hitmanpro.com^$important
 @@|hb.imgix.net^$important
 @@|hbenl.gallery.vsassets.io^$important
@@ -2863,7 +2851,6 @@
 @@|lists.ubuntu.com^$important
 @@|live.adyen.com^$important
 @@|live.com^$important
-@@|live.github.com^$important
 @@|live.linuxmint.com^$important
 @@|live.part.xbox.com^$important
 @@|live.playstation.com^$important
@@ -3608,7 +3595,6 @@
 @@|pages.ebay.com.au^$important
 @@|pages.ebay.com^$important
 @@|pages.engage.xbox.com^$important
-@@|pages.github.com^$important
 @@|pages.soundcloud.com^$important
 @@|pages.status.xbox.com^$important
 @@|panel.seedbox.io^$important
@@ -3935,7 +3921,6 @@
 @@|ratt.juno.ea.com^$important
 @@|ratt-dev.juno.ea.com^$important
 @@|raw.blocklist.vsnz.net^$important
-@@|raw.github.com^$important
 @@|raw.githubusercontent.com^$important
 @@|rawcdn.githack.com^$important
 @@|razer-assets2.s3.amazonaws.com^$important
@@ -4331,7 +4316,6 @@
 @@|spoprod-a.akamaihd.net^$important
 @@|spo-ring.msedge.net^$important
 @@|spotify.com^$important
-@@|spotlights-feed.github.com^$important
 @@|spreadsheets.google.com^$important
 @@|spring14.gosredirector.ea.com^$important
 @@|spsprodeau1.vssps.visualstudio.com^$important
@@ -4479,7 +4463,6 @@
 @@|status.brave.com^$important
 @@|status.discord.com^$important
 @@|status.geotrust.com^$important
-@@|status.github.com^$important
 @@|status.inoreader.com^$important
 @@|status.perfprod.com^$important
 @@|status.playstation.com^$important
@@ -5149,8 +5132,6 @@
 @@|vscjava.gallerycdn.vsassets.io^$important
 @@|vscode.dev^$important
 @@|vscode.download.prss.microsoft.com^$important
-@@|vscode.github.com^$important
-@@|vscode-auth.github.com^$important
 @@|vscodeweb.azureedge.net^$important
 @@|vscodium.now.sh^$important
 @@|vscodium.vercel.app^$important
@@ -5420,7 +5401,6 @@
 @@|www.getsession.org^$important
 @@|www.ghacks.net^$important
 @@|www.gigabyte.com^$important
-@@|www.github.com^$important
 @@|www.github.developerdan.com^$important
 @@|www.glarysoft.com^$important
 @@|www.glenn.delahoy.com^$important
