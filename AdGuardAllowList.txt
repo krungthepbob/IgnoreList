@@ -120,7 +120,8 @@
 @@|*.wns.windows.com^$important
 @@|*.xboxlive.com
 @@|*.ytimg.com^$important
-@@|*apple.com^$important
+@@|*.apple.com^$important
+@@|apple.com^$important
 @@|*-cdn.eporner.com^$important
 @@|*-dl.techpowerup.com^$important
 @@|*-ebgames.eb-cdn.com.au^$important
@@ -708,7 +709,6 @@
 @@|av-updateservice.adaware.com^$important
 @@|awards.netflix.com^$important
 @@|aws1.discourse-cdn.com^$important
-@@|ax.phobos.apple.com.edgesuite.net^$important
 @@|axon-assets-cdn.razerzone.com^$important
 @@|az667904.vo.msecnd.net^$important
 @@|az725175.vo.msecnd.net^$important
@@ -1269,7 +1269,6 @@
 @@|config.teams.microsoft.com^$important
 @@|config.uca.cloud.unity3d.com^$important
 @@|configprd.samsungcloudsolution.net^$important
-@@|configuration.apple.com.akadns.net^$important
 @@|confluence.ea.com^$important
 @@|conncheck.opensuse.org^$important
 @@|connect.epicgames.dev^$important
@@ -2789,6 +2788,7 @@
 @@|learn.offcloud.com^$important
 @@|leet-tracker.moe^$important
 @@|letsencrypt.org^$important
+@@|*.letsencrypt.org^$important
 @@|letsupload.io^$important
 @@|level3.blizzard.com^$important
 @@|level3.cdn.steampipe.steamcontent.com^$important
@@ -3030,7 +3030,8 @@
 @@|media-cdn.twitch.tv^$important
 @@|mediafire.com^$important
 @@|media-rockstargames-com.akamaized.net^$important
-@@|mediaservices.cdn-apple.com^$important
+@@|cdn-apple.com^$important
+@@|*.cdn-apple.com^$important
 @@|me-en.kaspersky.com^$important
 @@|meet.google.com^$important
 @@|mega.co.nz^$important
