@@ -447,7 +447,10 @@
 @@|api.mapbox.com^$important
 @@|api.metadataapi.net^$important
 @@|aaplimg.com^$important
-@@|*.applimg.com^$important
+@@|*.aaplimg.com^$important
+@@|server.events.data.microsoft.com^important
+@@|v10.events.data.microsoft.com^important
+@@|v20.events.data.microsoft.com^important
 @@|api.my.gov.au^$important
 @@|api.nab.com.au^$important
 @@|api.na-backend.odysee.com^$important
@@ -4581,6 +4584,7 @@
 @@|support.office.live.com^$important
 @@|support.rockstargames.com^$important
 @@|support.signal.org^$important
+@@|ud-chat.signal.org^$important
 @@|support.spro.xbox.com^$important
 @@|support.superloop.com^$important
 @@|support.system76.com^$important
