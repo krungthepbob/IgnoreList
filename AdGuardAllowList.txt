@@ -4149,6 +4149,8 @@
 @@|self-test.sabnzbd.org^$important
 @@|semantic-ui.com^$important
 @@|send.cm^$important
+@@|o741402.ingest.sentry.io^$important
+@@|sentry.io^$important
 @@|sentry.internxt.com^$important
 @@|sentry.lbry.tech^$important
 @@|sentry.odysee.tv^$important
