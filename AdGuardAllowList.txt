@@ -179,7 +179,8 @@
 @@||line-scdn.net^$important
 @@||privado.io^$important
 @@||proton.me^$important
-@@||protonvpn.com^$important
+@@||*.proton.me^$important
+@@||*.protonvpn.com^$important
 @@|shopee.co.th^$important
 @@|*.shopee.co.th^$important
 @@||sonar21.com^$important
@@ -254,15 +255,11 @@
 @@|account.np.ac.playstation.net^$important
 @@|account.nvidia.com^$important
 @@|account.production-public.tubi.io^$important
-@@|account.proton.me^$important
-@@|account.protonmail.com^$important
 @@|account.samsung.com.gslb.cdnetworks.net^$important
 @@|account.samsung.com^$important
 @@|account.service.nsw.gov.au^$important
 @@|account.services.gearboxsoftware.com^$important
 @@|account.xbox.com^$important
-@@|account-api.proton.me^$important
-@@|account-api.protonmail.com^$important
 @@|account-public-service-prod.ak.epicgames.com^$important
 @@|account-public-service-prod03.ol.epicgames.com^$important
 @@|accounts.aliexpress.com^$important
@@ -912,8 +909,6 @@
 @@|caldav.icloud.com^$important
 @@|setup.icloud.com^$important
 @@|calendar.google.com^$important
-@@|calendar.proton.me^$important
-@@|calendar.protonmail.com^$important
 @@|calendar-pa.clients*.google.com^$important
 @@|calendarpushsubscription-pa.googleapis.com^$important
 @@|calendarsync-pa.googleapis.com^$important
@@ -1731,8 +1726,6 @@
 @@|drive.filen.io^$important
 @@|drive.google.com^$important
 @@|drive.internxt.com^$important
-@@|drive.proton.me^$important
-@@|drive.protonmail.com^$important
 @@|drivefrontend-pa.clients6.google.com^$important
 @@|driveroff.net^$important
 @@|driverupdate.gigabytenb.com^$important
@@ -2329,7 +2322,6 @@
 @@|go.dev^$important
 @@|go.eset.com^$important
 @@|go.eset.eu^$important
-@@|go.getproton.me^$important
 @@|go.glarysoft.com^$important
 @@|go.microsoft.com^$important
 @@|go.oo-software.com^$important
@@ -2961,12 +2953,9 @@
 @@|mail.kde.org^$important
 @@|mail.live.com^$important
 @@|mail.plus.google.com^$important
-@@|mail.proton.me^$important
-@@|mail.protonmail.com^$important
 @@|mail.tutanota.com^$important
 @@|mail.vimeo.com^$important
 @@|mail.xda-developers.com^$important
-@@|mail-api.proton.me^$important
 @@|main.vscode-cdn.net^$important
 @@|majorgeeks.com^$important
 @@|malware-filter.gitlab.io^$important
@@ -3838,9 +3827,10 @@
 @@|promotion.aliexpress.com^$important
 @@|promotions.newegg.com^$important
 @@|promotions.soundcloud.com^$important
-@@|proton.me^$important
 @@|protonmail.ch^$important
+@@|*.protonmail.ch^$important
 @@|protonmail.com^$important
+@@|*.protonmail.com^$important
 @@|protonmail.uservoice.com^$important
 @@|proton-me.cdn.prismic.io^$important
 @@|protonvpn.com^$important
@@ -3973,7 +3963,6 @@
 @@|repo.vivaldi.com^$important
 @@|repo1.maven.org^$important
 @@|reports.adguard.com^$important
-@@|reports.proton.me^$important
 @@|reports.tools.gos.ea.com^$important
 @@|report-uri.cloudflare.com^$important
 @@|repository-images.githubusercontent.com^$important
@@ -5073,8 +5062,6 @@
 @@|ventoy.net^$important
 @@|venus.cdntrex.com^$important
 @@|verifi.podscribe.com^$important
-@@|verify.proton.me^$important
-@@|verify-api.proton.me^$important
 @@|version.cyberduck.io^$important
 @@|version.unchecky.com^$important
 @@|versioncheck.addons.mozilla.org^$important
@@ -5159,7 +5146,6 @@
 @@|waa-pa.clients6.google.com^$important
 @@|waldorf5.distrochooser.de^$important
 @@|wallet.ecom.ubi.com^$important
-@@|wallet.proton.me^$important
 @@|wallhaven.cc^$important
 @@|wallpaperaccess.com^$important
 @@|watchdog.gallery.vsassets.io^$important
