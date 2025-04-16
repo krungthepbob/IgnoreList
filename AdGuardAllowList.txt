@@ -169,7 +169,8 @@
 @@|_https._tcp.mirror.internet.asn.au^$important
 @@|_https._tcp.motd.ubuntu.com^$important
 @@|_https._tcp.packages.zorinos.com^$important
-@@||cdn.cloudflare.net^$important
+@@|cdn.cloudflare.net^$important
+@@|time.cloudflare.com^$important
 @@||cdn.dbdtwitch.com^$important
 @@||home.arpa^$important
 @@|line-apps.com^$important
