@@ -3424,7 +3424,6 @@
 @@|o-*.1fichier.com^$important
 @@|o.pki.goog^$important
 @@|o.xbox.com^$important
-@@|o741402.ingest.sentry.io^$important
 @@|oak-public-service-prod.ol.epicgames.com^$important
 @@|oao.stgeorge.com.au^$important
 @@|oapi.opalsystems.com.au^$important
@@ -4147,6 +4146,7 @@
 @@|send.cm^$important
 @@|sentry.internxt.com^$important
 @@|sentry.io^$important
+@@|*.sentry.io^$important
 @@|sentry.lbry.tech^$important
 @@|sentry.odysee.tv^$important
 @@|sentry.unknownworlds.com^$important
