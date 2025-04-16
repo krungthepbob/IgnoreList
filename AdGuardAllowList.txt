@@ -105,7 +105,6 @@
 @@|*.proxy.yewtu.be^$important
 @@|*.pwdn.net^$important
 @@|*.rdtcdn.com^$important
-@@|*.sentry.io^$important
 @@|*.services.gearboxsoftware.com^$important
 @@|*.settings.live.net^$important
 @@|*.sharepoint.com^$important
@@ -2284,6 +2283,7 @@
 @@|gist.githubusercontent.com^$important
 @@|git.io^$important
 @@|git.qbittorrent.org^$important
+@@|exp.notion.so
 @@|git.synz.io^$important
 @@|github.blog^$important
 @@|github.com^$important
@@ -2682,7 +2682,6 @@
 @@|iplists.firehol.org^$important
 @@|ipv4.tracker.harry.lu^$important
 @@|ipv4announce.sktorrent.eu^$important
-@@|ipv4only.arpa^$important
 @@|ipv6.login.live.com^$important
 @@|ipv6.msftconnecttest.com^$important
 @@|ipv6.msftncsi.com^$important
@@ -4151,7 +4150,6 @@
 @@|semantic-ui.com^$important
 @@|send.cm^$important
 @@|sentry.internxt.com^$important
-@@|sentry.io^$important
 @@|sentry.lbry.tech^$important
 @@|sentry.odysee.tv^$important
 @@|sentry.unknownworlds.com^$important
