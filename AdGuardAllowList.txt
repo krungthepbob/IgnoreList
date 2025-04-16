@@ -142,7 +142,6 @@
 @@|*-ring-fallback.msedge.net^$important
 @@|*settings.live.net^$important
 @@|*smartscreen-prod.microsoft.com^$important
-@@|*storage.live.com^$important
 @@|*vod-adaptive.akamaized.net^$important
 @@|.l.google.com^$important
 @@|.soundcloud.com^$important
@@ -576,6 +575,7 @@
 @@|appspot-preview.l.google.com^$important
 @@|appstream.ubuntu.com^$important
 @@|apresolve.spotify.com^$important
+@@|routerahs.asus.com^$important
 @@|ap-southeast-2-storm.ubi.com^$important
 @@|apt.izzysoft.de^$important
 @@|apt.pop-os.org^$important
@@ -666,9 +666,9 @@
 @@|au.playstation.com^$important
 @@|au.v4.download.windowsupdate.com^$important
 @@|audible.com^$important
-@@|audio-ak.spotify.com.edgesuite.net^$important
-@@|audio-ake.spotify.com.edgesuite.net^$important
-@@|audio-akp.spotify.com.edgesuite.net^$important
+@@|audio-ak.spotify.com^$important
+@@|audio-ake.spotify.com^$important
+@@|audio-akp.spotify.com^$important
 @@|audioboom.com^$important
 @@|audio-fa.spotify.com^$important
 @@|audio-sp.spotify.com^$important
@@ -2617,7 +2617,9 @@
 @@|imgs.hcaptcha.com^$important
 @@|imgs.search.brave.com^$important
 @@|imgs1cdn.adultempire.com^$important
-@@|img-s-msn-com.akamaized.net^$important
+@@|img-s-msn-com^$important
+@@|badblock.celenity.dev^$important
+@@|api.ipify.org^$important
 @@|imgur.com^$important
 @@|impactserving.com^$important
 @@|improvedtube.com^$important
@@ -3902,6 +3904,7 @@
 @@|r2.community.samsung.com^$important
 @@|r3.i.lencr.org^$important
 @@|r3.o.lencr.org^$important
+@@|e*.i.lencr.org^$important
 @@|r3.whistleout.com.au^$important
 @@|r4.res.office365.com^$important
 @@|r4---sn-npoe7n7y.googlevideo.com^$important
@@ -4429,6 +4432,8 @@
 @@|static1.squarespace.com^$important
 @@|static1.xdaimages.com^$important
 @@|static2.sharepointonline.com^$important
+@@|sharepoint.com^$important
+@@|*.sharepoint.com^$important
 @@|static-ah.xhcdn.com^$important
 @@|static-assets-prod.epicgames.com^$important
 @@|static-assets-prod.unrealengine.com^$important
