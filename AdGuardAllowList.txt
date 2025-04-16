@@ -907,7 +907,9 @@
 @@|cache2-mel-edgx.steamcontent.com^$important
 @@|cache2-per-edgx.steamcontent.com^$important
 @@|caddyserver.com^$important
+@@|ip-api.com^$important
 @@|caldav.icloud.com^$important
+@@|setup.icloud.com^$important
 @@|calendar.google.com^$important
 @@|calendar.proton.me^$important
 @@|calendar.protonmail.com^$important
