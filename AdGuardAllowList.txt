@@ -9,6 +9,7 @@
 /^(shared\.?(akamai|fastly)?|(avatars|cdn|clan|clientconfig|client-update|community|store|video)\.?(akamai|cloudflare|fastly)?)\.steamstatic\.com$/
 /^(targetednotifications|turn\mcc(01)?|vcode\-sync|web\.vortex\.data)\-tm\.trafficmanager\.net$/
 /^yt[0-9]\.ggpht\.com$/
+@@|smetrics.aem.playstation.com^$important
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*.totallyacdn.com^$important
 @@|*-*-stor*.uploaded.net^$important
@@ -75,8 +76,12 @@
 @@|*.journal-neo.su^$important
 @@|*.karere.mega.nz^$important
 @@|*.lazada.co.th^$important
-@@|*.lencr.org^$important
-@@|*.letsencrypt.org^$important
+@@|e1.o.lencr.org^$important
+@@|r11.o.lencr.org^$important
+@@|r3.i.lencr.org^$important
+@@|r3.o.lencr.org^$important
+@@|x1.c.lencr.org^$important
+@@|x2.c.lencr.org^$important@@|*.letsencrypt.org^$important
 @@|*.line-apps.com^important
 @@|*.linecorp.com^$important
 @@|*.lineinfra-dev.com^$important
