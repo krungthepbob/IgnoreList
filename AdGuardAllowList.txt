@@ -1053,6 +1053,7 @@
 @@|cdn1.thm.stgeorge.com.au^$important
 @@|cdn1.unrealengine.com^$important
 @@|cdn1.xda-developers.com^$important
+@@|eu-office.events.data.microsoft.com^$important
 @@|cdn11.bigcommerce.com^$important
 @@|cdn1-ht-thumbnails.pornerbros.com^$important
 @@|cdn2.downdetector.com^$important
