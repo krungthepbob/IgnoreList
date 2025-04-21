@@ -1055,6 +1055,8 @@
 @@|cdn1.xda-developers.com^$important
 @@|eu-office.events.data.microsoft.com^$important
 @@|fbs.smoot.apple.com^important
+@@|cf.iadsdk.apple.com^$important
+@@|xp.itunes-apple.com^$important
 @@|cdn11.bigcommerce.com^$important
 @@|cdn1-ht-thumbnails.pornerbros.com^$important
 @@|cdn2.downdetector.com^$important
